@@ -19,7 +19,6 @@ public class OtoKadai6  {
 		Otopika oto2 = new Otopika();
 		oto1.powerOn();
 		oto2.powerOn();
-		int a= 10;
 		while(true) {
 			oto2.lightRed();
 			oto1.lightGreen();
